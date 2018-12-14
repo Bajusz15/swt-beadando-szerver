@@ -1,0 +1,29 @@
+{
+  "name": "chat-pelda-swt",
+  "version": "0.0.5",
+  "description": "Egy chat pelda szoftvertechnologia orara, a  `socket.io` hasznalatara `express` szerverrel.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bajusz15/swt-beadando-szerver.git"
+  },
+  "author": "Bajusz15",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "socket",
+    "io"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bajusz15/swt-beadando-szerver/issues"
+  },
+  "homepage": "https://github.com/Bajusz15/swt-beadando-szerver#readme"
+}
